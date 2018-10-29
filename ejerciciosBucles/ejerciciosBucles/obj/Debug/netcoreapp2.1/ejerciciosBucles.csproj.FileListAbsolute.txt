@@ -1,0 +1,11 @@
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\obj\Debug\netcoreapp2.1\ejerciciosBucles.csprojAssemblyReference.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\obj\Debug\netcoreapp2.1\ejerciciosBucles.csproj.CoreCompileInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\obj\Debug\netcoreapp2.1\ejerciciosBucles.AssemblyInfoInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\obj\Debug\netcoreapp2.1\ejerciciosBucles.AssemblyInfo.cs
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\bin\Debug\netcoreapp2.1\ejerciciosBucles.deps.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\bin\Debug\netcoreapp2.1\ejerciciosBucles.runtimeconfig.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\bin\Debug\netcoreapp2.1\ejerciciosBucles.runtimeconfig.dev.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\bin\Debug\netcoreapp2.1\ejerciciosBucles.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\bin\Debug\netcoreapp2.1\ejerciciosBucles.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\obj\Debug\netcoreapp2.1\ejerciciosBucles.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\ejerciciosBucles\ejerciciosBucles\ejerciciosBucles\obj\Debug\netcoreapp2.1\ejerciciosBucles.pdb
